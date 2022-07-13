@@ -1,0 +1,6 @@
+name: Heal-Feed
+version: '${project.version}'
+main: de.momochqn.healfeed.Healfeed
+commands:
+  heal:
+  feed:
