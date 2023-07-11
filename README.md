@@ -1,4 +1,4 @@
-[ATTACH=full]714315[/ATTACH]
+![alt text](https://i.imgur.com/6AJI5ob.png)
 
 
 Commands
@@ -11,11 +11,8 @@ heal.target - Heal others - /heal Player
 feed.use - Feed command - /feed
 feed.target - Feed others - /feed Player
 
-Translations
-German - Download
-
 Config
-[code=YAML]
+```
   Prefix: '&7[&e&lHeal&7&l-&6&lFeed&7] '
   HealMessage: '&aYou healed yourself.'
   GotHealed: '&aYou got healed.'
@@ -25,7 +22,7 @@ Config
   FedOther: '&aYou fed this person.'
   PlayerOffline: '&cThis player is offline.'
   NoPerms: '&cYou don''t have permissions to use this command.'
-[/code]
+```
 
 Support
 Discord - @m9mo
